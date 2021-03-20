@@ -1,4 +1,4 @@
-<img src="https://github.com/robertpinl/AmIDrunk/blob/main/ReadmeAssets/amidrunklogo.png" width="" height="50"/>
+<img src="https://github.com/robertpinl/AmIDrunk/blob/main/ReadmeAssets/amidrunklogo.png" width="" height="65"/>
 
 Calculator to estimate the Blood Alcohol Content (BAC) level based on the amount of alcohol consumed, the time elapsed, gender, and body. Blood alcohol concentration (BAC) is a commonly used measure of alcohol intoxication, also known as drunkenness. It is expressed as a per mille (‰) of alcohol per volume of blood.
 
